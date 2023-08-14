@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**luisgmfdev/luisgmfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá,sou Luis Gabriel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Atualmente Estudo em : Serviço Nacional de Aprendizagem Comercial (Senac-Goiás) E Curso Ciencias da Computação na Estacio De Sá
+
+  1-Formado academicamente em:
+  
+     
+     👨‍🎓✅ -> Porgramação  back-end 
+
+  1-Cursos:
+  
+     📚🖥-> Logica De Progamação( ✅ )
+     📚🖥-> Programador de Sistemas (Em Andamento💤)
+     📚🖥-> Admnistrador de Banco de dados (Em Andamento💤)
+
+  2- Atualmente Trabalhando com :
+  
+      🟢-> Html (front)
+      🟢-> Css (front)
+      🟢-> Java (Back End) 
+      🟢-> JavaScript (Back-End)
+      🟢-> PostgreSQL (DBA)
+      🟢-> MYSQL(DBA)
+      🟢-> Brmodelo ( modelagem de DBA)
+📲 Contatos :
+--> luisgabrielmartinsdev@gmail.com

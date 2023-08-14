@@ -7,7 +7,7 @@ Olá,sou Luis Gabriel
   1-Formado academicamente em:
   
      
-     👨‍🎓✅ -> Porgramação  back-end 
+     👨‍🎓✅ -> Programação  back-end 
 
   1-Cursos:
   
